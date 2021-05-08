@@ -1,5 +1,5 @@
 # student-portfolio
-A collection of a few projects I've worked on at college, named by their subfolders.
+A collection of a few projects I've worked on at college, named by their subfolders. This doesn't contain any web projects, just links to them as I want them in their own repos.
 
 ## Djikstra
 Implementation of Djikstra's shortest path algorithm. Written in Java.
